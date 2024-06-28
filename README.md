@@ -13,6 +13,8 @@ This portfolio website is designed to showcase my skills, projects, and professi
 
 https://github.com/rohazshaik07/Landing-Page/assets/173455762/db376bf6-840a-4306-9d7d-90c6476f17c5
 
+**Check my project here :** https://portofolio-rohaz.netlify.app
+
 
 
 ## 🚀 About Me
